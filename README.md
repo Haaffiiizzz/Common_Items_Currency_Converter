@@ -1,4 +1,1 @@
-I am trying to create a currency converter where instead of just seeing the exchange rate among different currencies,
-you can check what an amount of currency is worth in another country in terms  of prices of items.
-
-Done with it for now. Once I increase my knowledge on Web Apps, I might go live with it.
+A currency converter where users can check the value of one currency against another using prices of commodities from different countries. The data used in this project was manually sourced. Using that data however, I have created an API for easy access to any other programmer.
