@@ -89,7 +89,7 @@ result = ttk.Label(root, text="", justify=tk.LEFT, font=("Verdana", 10), wraplen
 result.grid(column=0, row=5, columnspan=2, padx=10, pady=10)
 
 root.mainloop()
-
+#run
 
 
 
